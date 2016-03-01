@@ -1,1 +1,3 @@
 This is a test file ...
+
+http://www.sitepoint.com/git-for-beginners/
