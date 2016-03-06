@@ -31,3 +31,6 @@ adding  wordpress theme ustomize options
 http://themefoundation.com/wordpress-theme-customizer/
 =======
 >>>>>>> d12b3ea553563e06a224d8a74beadc6cde652d4e
+
+
+https://premium.wpmudev.org/blog/creating-custom-controls-wordpress-theme-customizer/
