@@ -40,6 +40,7 @@ puul command --> git pull origin master
 =============================================
 create custom post type and tcustom texanomy in wordpress
 ==========================================================
+IMPORTANT NOTE---> if custom post type page not found error , you may change and save permalink in setting option wordpress.
 function custom_post_type() {
 
 
