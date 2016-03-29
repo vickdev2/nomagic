@@ -133,3 +133,10 @@ function create_our_services_texanomies() {
 http://blog.josemcastaneda.com/2013/05/29/custom-comment/
 
 =============================================================
+
+5.) Customizing comment form in wordpress
+https://premium.wpmudev.org/blog/customizing-wordpress-comment-form/
+
+6.) shuffling comment form fields
+http://www.wpbeginner.com/wp-tutorials/how-to-move-comment-text-field-to-bottom-in-wordpress-4-4/
+========================================================================
