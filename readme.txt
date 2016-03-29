@@ -1,6 +1,4 @@
-This is a test file ...
-
-http://www.sitepoint.com/git-for-beginners/
+1.)http://www.sitepoint.com/git-for-beginners/
 
 $ git config --global user.name 'youR name'
 
@@ -26,7 +24,7 @@ $ git push -u origin master
 
 ================================================
 
-adding  wordpress theme ustomize options
+2.)adding  wordpress theme ustomize options
 
 http://themefoundation.com/wordpress-theme-customizer/
 =======
@@ -38,7 +36,7 @@ https://premium.wpmudev.org/blog/creating-custom-controls-wordpress-theme-custom
 puul command --> git pull origin master
 
 =============================================
-create custom post type and tcustom texanomy in wordpress
+3.)create custom post type and tcustom texanomy in wordpress
 ==========================================================
 IMPORTANT NOTE---> if custom post type page not found error , you may change and save permalink in setting option wordpress.
 function custom_post_type() {
@@ -130,3 +128,8 @@ function create_our_services_texanomies() {
 	
 
 }
+============================================================================
+4.) customize wpordpress post comment list
+http://blog.josemcastaneda.com/2013/05/29/custom-comment/
+
+=============================================================
