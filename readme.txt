@@ -140,3 +140,10 @@ https://premium.wpmudev.org/blog/customizing-wordpress-comment-form/
 6.) shuffling comment form fields
 http://www.wpbeginner.com/wp-tutorials/how-to-move-comment-text-field-to-bottom-in-wordpress-4-4/
 ========================================================================
+====
+7.)breadcrumbs
+https://www.thewebtaylor.com/articles/wordpress-creating-breadcrumbs-without-a-plugin
+=====
+
+8.)Realted/similar posts based on tag
+https://www.elegantthemes.com/blog/tips-tricks/display-related-posts-in-wordpress
